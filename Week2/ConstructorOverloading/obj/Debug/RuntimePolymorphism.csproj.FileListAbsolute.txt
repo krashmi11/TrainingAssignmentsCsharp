@@ -1,0 +1,7 @@
+D:\DOTNET\Fendahl\RuntimePolymorphism\bin\Debug\RuntimePolymorphism.exe.config
+D:\DOTNET\Fendahl\RuntimePolymorphism\bin\Debug\RuntimePolymorphism.exe
+D:\DOTNET\Fendahl\RuntimePolymorphism\bin\Debug\RuntimePolymorphism.pdb
+D:\DOTNET\Fendahl\RuntimePolymorphism\obj\Debug\RuntimePolymorphism.csproj.AssemblyReference.cache
+D:\DOTNET\Fendahl\RuntimePolymorphism\obj\Debug\RuntimePolymorphism.csproj.CoreCompileInputs.cache
+D:\DOTNET\Fendahl\RuntimePolymorphism\obj\Debug\RuntimePolymorphism.exe
+D:\DOTNET\Fendahl\RuntimePolymorphism\obj\Debug\RuntimePolymorphism.pdb

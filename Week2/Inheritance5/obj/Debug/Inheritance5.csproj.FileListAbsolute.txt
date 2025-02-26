@@ -1,0 +1,7 @@
+D:\DOTNET\Fendahl\Inheritance5\bin\Debug\Inheritance5.exe.config
+D:\DOTNET\Fendahl\Inheritance5\bin\Debug\Inheritance5.exe
+D:\DOTNET\Fendahl\Inheritance5\bin\Debug\Inheritance5.pdb
+D:\DOTNET\Fendahl\Inheritance5\obj\Debug\Inheritance5.csproj.AssemblyReference.cache
+D:\DOTNET\Fendahl\Inheritance5\obj\Debug\Inheritance5.csproj.CoreCompileInputs.cache
+D:\DOTNET\Fendahl\Inheritance5\obj\Debug\Inheritance5.exe
+D:\DOTNET\Fendahl\Inheritance5\obj\Debug\Inheritance5.pdb

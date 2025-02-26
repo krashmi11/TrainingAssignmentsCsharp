@@ -1,0 +1,7 @@
+D:\DOTNET\Fendahl\BankInterestCalculation\bin\Debug\BankInterestCalculation.exe.config
+D:\DOTNET\Fendahl\BankInterestCalculation\bin\Debug\BankInterestCalculation.exe
+D:\DOTNET\Fendahl\BankInterestCalculation\bin\Debug\BankInterestCalculation.pdb
+D:\DOTNET\Fendahl\BankInterestCalculation\obj\Debug\BankInterestCalculation.csproj.AssemblyReference.cache
+D:\DOTNET\Fendahl\BankInterestCalculation\obj\Debug\BankInterestCalculation.csproj.CoreCompileInputs.cache
+D:\DOTNET\Fendahl\BankInterestCalculation\obj\Debug\BankInterestCalculation.exe
+D:\DOTNET\Fendahl\BankInterestCalculation\obj\Debug\BankInterestCalculation.pdb

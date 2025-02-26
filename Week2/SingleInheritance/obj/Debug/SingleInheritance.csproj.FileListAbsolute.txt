@@ -1,0 +1,7 @@
+D:\DOTNET\Fendahl\SingleInheritance\bin\Debug\SingleInheritance.exe.config
+D:\DOTNET\Fendahl\SingleInheritance\bin\Debug\SingleInheritance.exe
+D:\DOTNET\Fendahl\SingleInheritance\bin\Debug\SingleInheritance.pdb
+D:\DOTNET\Fendahl\SingleInheritance\obj\Debug\SingleInheritance.csproj.AssemblyReference.cache
+D:\DOTNET\Fendahl\SingleInheritance\obj\Debug\SingleInheritance.csproj.CoreCompileInputs.cache
+D:\DOTNET\Fendahl\SingleInheritance\obj\Debug\SingleInheritance.exe
+D:\DOTNET\Fendahl\SingleInheritance\obj\Debug\SingleInheritance.pdb

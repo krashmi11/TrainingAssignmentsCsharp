@@ -1,0 +1,7 @@
+D:\DOTNET\Fendahl\ChatBotSystem\bin\Debug\ChatBotSystem.exe.config
+D:\DOTNET\Fendahl\ChatBotSystem\bin\Debug\ChatBotSystem.exe
+D:\DOTNET\Fendahl\ChatBotSystem\bin\Debug\ChatBotSystem.pdb
+D:\DOTNET\Fendahl\ChatBotSystem\obj\Debug\ChatBotSystem.csproj.AssemblyReference.cache
+D:\DOTNET\Fendahl\ChatBotSystem\obj\Debug\ChatBotSystem.csproj.CoreCompileInputs.cache
+D:\DOTNET\Fendahl\ChatBotSystem\obj\Debug\ChatBotSystem.exe
+D:\DOTNET\Fendahl\ChatBotSystem\obj\Debug\ChatBotSystem.pdb

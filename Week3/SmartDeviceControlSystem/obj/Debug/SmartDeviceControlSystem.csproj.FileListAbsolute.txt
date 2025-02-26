@@ -1,0 +1,7 @@
+D:\DOTNET\Fendahl\SmartDeviceControlSystem\obj\Debug\SmartDeviceControlSystem.csproj.AssemblyReference.cache
+D:\DOTNET\Fendahl\SmartDeviceControlSystem\obj\Debug\SmartDeviceControlSystem.csproj.CoreCompileInputs.cache
+D:\DOTNET\Fendahl\SmartDeviceControlSystem\bin\Debug\SmartDeviceControlSystem.exe.config
+D:\DOTNET\Fendahl\SmartDeviceControlSystem\bin\Debug\SmartDeviceControlSystem.exe
+D:\DOTNET\Fendahl\SmartDeviceControlSystem\bin\Debug\SmartDeviceControlSystem.pdb
+D:\DOTNET\Fendahl\SmartDeviceControlSystem\obj\Debug\SmartDeviceControlSystem.exe
+D:\DOTNET\Fendahl\SmartDeviceControlSystem\obj\Debug\SmartDeviceControlSystem.pdb

@@ -1,0 +1,7 @@
+D:\DOTNET\Fendahl\Heirarchical\bin\Debug\Heirarchical.exe.config
+D:\DOTNET\Fendahl\Heirarchical\bin\Debug\Heirarchical.exe
+D:\DOTNET\Fendahl\Heirarchical\bin\Debug\Heirarchical.pdb
+D:\DOTNET\Fendahl\Heirarchical\obj\Debug\Heirarchical.csproj.AssemblyReference.cache
+D:\DOTNET\Fendahl\Heirarchical\obj\Debug\Heirarchical.csproj.CoreCompileInputs.cache
+D:\DOTNET\Fendahl\Heirarchical\obj\Debug\Heirarchical.exe
+D:\DOTNET\Fendahl\Heirarchical\obj\Debug\Heirarchical.pdb

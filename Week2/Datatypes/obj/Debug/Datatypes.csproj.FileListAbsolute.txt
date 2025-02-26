@@ -1,0 +1,7 @@
+D:\DOTNET\Fendahl\Datatypes\bin\Debug\Datatypes.exe.config
+D:\DOTNET\Fendahl\Datatypes\bin\Debug\Datatypes.exe
+D:\DOTNET\Fendahl\Datatypes\bin\Debug\Datatypes.pdb
+D:\DOTNET\Fendahl\Datatypes\obj\Debug\Datatypes.csproj.AssemblyReference.cache
+D:\DOTNET\Fendahl\Datatypes\obj\Debug\Datatypes.csproj.CoreCompileInputs.cache
+D:\DOTNET\Fendahl\Datatypes\obj\Debug\Datatypes.exe
+D:\DOTNET\Fendahl\Datatypes\obj\Debug\Datatypes.pdb

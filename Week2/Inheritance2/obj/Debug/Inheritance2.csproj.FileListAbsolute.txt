@@ -1,0 +1,7 @@
+D:\DOTNET\Fendahl\Inheritance2\bin\Debug\Inheritance2.exe.config
+D:\DOTNET\Fendahl\Inheritance2\bin\Debug\Inheritance2.exe
+D:\DOTNET\Fendahl\Inheritance2\bin\Debug\Inheritance2.pdb
+D:\DOTNET\Fendahl\Inheritance2\obj\Debug\Inheritance2.csproj.AssemblyReference.cache
+D:\DOTNET\Fendahl\Inheritance2\obj\Debug\Inheritance2.csproj.CoreCompileInputs.cache
+D:\DOTNET\Fendahl\Inheritance2\obj\Debug\Inheritance2.exe
+D:\DOTNET\Fendahl\Inheritance2\obj\Debug\Inheritance2.pdb

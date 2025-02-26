@@ -1,0 +1,7 @@
+D:\DOTNET\Fendahl\Inheritance4\bin\Debug\Inheritance4.exe.config
+D:\DOTNET\Fendahl\Inheritance4\bin\Debug\Inheritance4.exe
+D:\DOTNET\Fendahl\Inheritance4\bin\Debug\Inheritance4.pdb
+D:\DOTNET\Fendahl\Inheritance4\obj\Debug\Inheritance4.csproj.AssemblyReference.cache
+D:\DOTNET\Fendahl\Inheritance4\obj\Debug\Inheritance4.csproj.CoreCompileInputs.cache
+D:\DOTNET\Fendahl\Inheritance4\obj\Debug\Inheritance4.exe
+D:\DOTNET\Fendahl\Inheritance4\obj\Debug\Inheritance4.pdb

@@ -1,0 +1,7 @@
+D:\DOTNET\Fendahl\Multilevel\bin\Debug\Multilevel.exe.config
+D:\DOTNET\Fendahl\Multilevel\bin\Debug\Multilevel.exe
+D:\DOTNET\Fendahl\Multilevel\bin\Debug\Multilevel.pdb
+D:\DOTNET\Fendahl\Multilevel\obj\Debug\Multilevel.csproj.AssemblyReference.cache
+D:\DOTNET\Fendahl\Multilevel\obj\Debug\Multilevel.csproj.CoreCompileInputs.cache
+D:\DOTNET\Fendahl\Multilevel\obj\Debug\Multilevel.exe
+D:\DOTNET\Fendahl\Multilevel\obj\Debug\Multilevel.pdb

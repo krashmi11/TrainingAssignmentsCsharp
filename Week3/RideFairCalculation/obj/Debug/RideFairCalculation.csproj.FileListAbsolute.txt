@@ -1,0 +1,7 @@
+D:\DOTNET\Fendahl\RideFairCalculation\bin\Debug\RideFairCalculation.exe.config
+D:\DOTNET\Fendahl\RideFairCalculation\bin\Debug\RideFairCalculation.exe
+D:\DOTNET\Fendahl\RideFairCalculation\bin\Debug\RideFairCalculation.pdb
+D:\DOTNET\Fendahl\RideFairCalculation\obj\Debug\RideFairCalculation.csproj.AssemblyReference.cache
+D:\DOTNET\Fendahl\RideFairCalculation\obj\Debug\RideFairCalculation.csproj.CoreCompileInputs.cache
+D:\DOTNET\Fendahl\RideFairCalculation\obj\Debug\RideFairCalculation.exe
+D:\DOTNET\Fendahl\RideFairCalculation\obj\Debug\RideFairCalculation.pdb

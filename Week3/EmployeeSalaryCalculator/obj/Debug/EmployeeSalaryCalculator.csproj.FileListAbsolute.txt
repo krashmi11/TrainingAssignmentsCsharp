@@ -1,0 +1,7 @@
+D:\DOTNET\Fendahl\EmployeeSalaryCalculator\bin\Debug\EmployeeSalaryCalculator.exe.config
+D:\DOTNET\Fendahl\EmployeeSalaryCalculator\bin\Debug\EmployeeSalaryCalculator.exe
+D:\DOTNET\Fendahl\EmployeeSalaryCalculator\bin\Debug\EmployeeSalaryCalculator.pdb
+D:\DOTNET\Fendahl\EmployeeSalaryCalculator\obj\Debug\EmployeeSalaryCalculator.csproj.AssemblyReference.cache
+D:\DOTNET\Fendahl\EmployeeSalaryCalculator\obj\Debug\EmployeeSalaryCalculator.csproj.CoreCompileInputs.cache
+D:\DOTNET\Fendahl\EmployeeSalaryCalculator\obj\Debug\EmployeeSalaryCalculator.exe
+D:\DOTNET\Fendahl\EmployeeSalaryCalculator\obj\Debug\EmployeeSalaryCalculator.pdb

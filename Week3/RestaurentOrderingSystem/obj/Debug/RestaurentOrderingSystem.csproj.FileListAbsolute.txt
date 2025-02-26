@@ -1,0 +1,7 @@
+D:\DOTNET\Fendahl\RestaurentOrderingSystem\bin\Debug\RestaurentOrderingSystem.exe.config
+D:\DOTNET\Fendahl\RestaurentOrderingSystem\bin\Debug\RestaurentOrderingSystem.exe
+D:\DOTNET\Fendahl\RestaurentOrderingSystem\bin\Debug\RestaurentOrderingSystem.pdb
+D:\DOTNET\Fendahl\RestaurentOrderingSystem\obj\Debug\RestaurentOrderingSystem.csproj.AssemblyReference.cache
+D:\DOTNET\Fendahl\RestaurentOrderingSystem\obj\Debug\RestaurentOrderingSystem.csproj.CoreCompileInputs.cache
+D:\DOTNET\Fendahl\RestaurentOrderingSystem\obj\Debug\RestaurentOrderingSystem.exe
+D:\DOTNET\Fendahl\RestaurentOrderingSystem\obj\Debug\RestaurentOrderingSystem.pdb
