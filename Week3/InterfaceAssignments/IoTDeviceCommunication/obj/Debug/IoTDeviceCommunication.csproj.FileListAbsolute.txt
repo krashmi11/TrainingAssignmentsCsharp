@@ -1,0 +1,7 @@
+D:\DOTNET\Fendahl\Week3\InterfaceAssignments\IoTDeviceCommunication\bin\Debug\IoTDeviceCommunication.exe.config
+D:\DOTNET\Fendahl\Week3\InterfaceAssignments\IoTDeviceCommunication\bin\Debug\IoTDeviceCommunication.exe
+D:\DOTNET\Fendahl\Week3\InterfaceAssignments\IoTDeviceCommunication\bin\Debug\IoTDeviceCommunication.pdb
+D:\DOTNET\Fendahl\Week3\InterfaceAssignments\IoTDeviceCommunication\obj\Debug\IoTDeviceCommunication.csproj.AssemblyReference.cache
+D:\DOTNET\Fendahl\Week3\InterfaceAssignments\IoTDeviceCommunication\obj\Debug\IoTDeviceCommunication.csproj.CoreCompileInputs.cache
+D:\DOTNET\Fendahl\Week3\InterfaceAssignments\IoTDeviceCommunication\obj\Debug\IoTDeviceCommunication.exe
+D:\DOTNET\Fendahl\Week3\InterfaceAssignments\IoTDeviceCommunication\obj\Debug\IoTDeviceCommunication.pdb

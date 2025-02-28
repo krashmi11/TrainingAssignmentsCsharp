@@ -1,0 +1,7 @@
+D:\DOTNET\Fendahl\Week3\InterfaceAssignments\FactoryDesignPattern\bin\Debug\FactoryDesignPattern.exe.config
+D:\DOTNET\Fendahl\Week3\InterfaceAssignments\FactoryDesignPattern\bin\Debug\FactoryDesignPattern.exe
+D:\DOTNET\Fendahl\Week3\InterfaceAssignments\FactoryDesignPattern\bin\Debug\FactoryDesignPattern.pdb
+D:\DOTNET\Fendahl\Week3\InterfaceAssignments\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.csproj.AssemblyReference.cache
+D:\DOTNET\Fendahl\Week3\InterfaceAssignments\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.csproj.CoreCompileInputs.cache
+D:\DOTNET\Fendahl\Week3\InterfaceAssignments\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.exe
+D:\DOTNET\Fendahl\Week3\InterfaceAssignments\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.pdb

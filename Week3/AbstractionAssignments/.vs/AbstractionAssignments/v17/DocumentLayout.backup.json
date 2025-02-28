@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOTNET\\Fendahl\\Week3\\AbstractionAssignments\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60462B20-7A19-4608-B17B-9A3F675AE79A}|OnlineShoppingDiscountSystem\\OnlineShoppingDiscountSystem.csproj|d:\\dotnet\\fendahl\\week3\\abstractionassignments\\onlineshoppingdiscountsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60462B20-7A19-4608-B17B-9A3F675AE79A}|OnlineShoppingDiscountSystem\\OnlineShoppingDiscountSystem.csproj|solutionrelative:onlineshoppingdiscountsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C28902-7F80-450A-8FAB-6F30176C60D6}|EmployeePayrollSystem\\EmployeePayrollSystem.csproj|d:\\dotnet\\fendahl\\week3\\abstractionassignments\\employeepayrollsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C28902-7F80-450A-8FAB-6F30176C60D6}|EmployeePayrollSystem\\EmployeePayrollSystem.csproj|solutionrelative:employeepayrollsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DOTNET\\Fendahl\\Week3\\AbstractionAssignments\\OnlineShoppingDiscountSystem\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineShoppingDiscountSystem\\Program.cs",
+              "ToolTip": "D:\\DOTNET\\Fendahl\\Week3\\AbstractionAssignments\\OnlineShoppingDiscountSystem\\Program.cs",
+              "RelativeToolTip": "OnlineShoppingDiscountSystem\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAOY7jvIQmwAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:47:33.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DOTNET\\Fendahl\\Week3\\AbstractionAssignments\\EmployeePayrollSystem\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeePayrollSystem\\Program.cs",
+              "ToolTip": "D:\\DOTNET\\Fendahl\\Week3\\AbstractionAssignments\\EmployeePayrollSystem\\Program.cs",
+              "RelativeToolTip": "EmployeePayrollSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:22:58.965Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\DOTNET\Fendahl\Week3\AbstractionAssignments\EmployeePayrollSystem\bin\Debug\EmployeePayrollSystem.exe.config
+D:\DOTNET\Fendahl\Week3\AbstractionAssignments\EmployeePayrollSystem\bin\Debug\EmployeePayrollSystem.exe
+D:\DOTNET\Fendahl\Week3\AbstractionAssignments\EmployeePayrollSystem\bin\Debug\EmployeePayrollSystem.pdb
+D:\DOTNET\Fendahl\Week3\AbstractionAssignments\EmployeePayrollSystem\obj\Debug\EmployeePayrollSystem.csproj.AssemblyReference.cache
+D:\DOTNET\Fendahl\Week3\AbstractionAssignments\EmployeePayrollSystem\obj\Debug\EmployeePayrollSystem.csproj.CoreCompileInputs.cache
+D:\DOTNET\Fendahl\Week3\AbstractionAssignments\EmployeePayrollSystem\obj\Debug\EmployeePayrollSystem.exe
+D:\DOTNET\Fendahl\Week3\AbstractionAssignments\EmployeePayrollSystem\obj\Debug\EmployeePayrollSystem.pdb
