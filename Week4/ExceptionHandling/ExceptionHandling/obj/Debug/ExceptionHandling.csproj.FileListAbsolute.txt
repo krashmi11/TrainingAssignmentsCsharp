@@ -1,0 +1,7 @@
+D:\DOTNET\Fendahl\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+D:\DOTNET\Fendahl\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+D:\DOTNET\Fendahl\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+D:\DOTNET\Fendahl\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.AssemblyReference.cache
+D:\DOTNET\Fendahl\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+D:\DOTNET\Fendahl\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+D:\DOTNET\Fendahl\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
